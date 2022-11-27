@@ -1,3 +1,18 @@
+## Installation 
+- On Windows (with mingW)
+	1. Download all the files
+	2. Open Command prompt 
+	3. Change its directory to the directory where the downloaded files are
+		How?
+		1. to change drive, type drivename: and hit enter (Ex - f:)
+		2. now to chance path, type cd path and hit enter (Ex - cd c++\github)
+	4. now type , mingw32-make and hit enter
+
+- On Mac/Linux
+	1. Download all the files
+	2. Open Terminal 
+	3. Change its directory to the directory where the downloaded files are
+	4. now type, make and hit enter
 ## Usage
 
 ### 1. Help
